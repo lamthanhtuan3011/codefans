@@ -1,14 +1,10 @@
 [
    {
-      "name":"Python",
+      "name":"Tieu thuyet",
       "id":0
    },
    {
-      "name":"C-Sharp",
+      "name":"ngon tinmh",
       "id":1
-   },
-   {
-      "name":"JavaScript",
-      "id":2
    }
 ]
